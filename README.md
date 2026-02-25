@@ -53,7 +53,9 @@ Este texto fue agregado en la rama `feature-conflicto` para practicar flujos de 
 
 Este texto fue agregado en la rama `main` para generar un conflicto de fusión controlado.
 
+## Conflicto (feature)
 
+Línea A: Esta línea fue escrita en la rama feature-conflicto.
 
 
 
