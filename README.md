@@ -45,12 +45,20 @@ Universidad de los Andes
 2026
 
 
+## Cambio en rama feature
+
+Este texto fue agregado en la rama `feature-conflicto` para practicar flujos de trabajo con ramas y fusiones.
 
 
 
 
 
 
-Para ejecutar el proyecto completo:
 
-1. Clonar el repositorio:
+
+
+
+
+
+
+
