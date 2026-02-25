@@ -49,6 +49,9 @@ Universidad de los Andes
 
 Este texto fue agregado en la rama `feature-conflicto` para practicar flujos de trabajo con ramas y fusiones.
 
+## Cambio en rama main
+
+Este texto fue agregado en la rama `main` para generar un conflicto de fusión controlado.
 
 
 
