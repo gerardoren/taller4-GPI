@@ -44,9 +44,9 @@ Andrés Gerardo Rendon
 Universidad de los Andes  
 2026
 
-## Conflicto
+## Conflicto (feature)
 
-Esta línea fue escrita desde la rama FEATURE.
+Línea A: VERSION FEATURE 123
 
 
 
