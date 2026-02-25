@@ -44,6 +44,9 @@ Andrés Gerardo Rendon
 Universidad de los Andes  
 2026
 
+## Conflicto (feature)
+
+Línea A: VERSION FEATURE 123
 
 ## Cambio en rama feature
 
@@ -53,13 +56,11 @@ Este texto fue agregado en la rama `feature-conflicto` para practicar flujos de 
 
 Este texto fue agregado en la rama `main` para generar un conflicto de fusión controlado.
 
+
 ## Conflicto (feature)
 
-Línea A: VERSION MAIN 999
-
-
-
-
+Línea A: VERSION MAIN 999  
+Línea A: VERSION FEATURE 123
 
 
 
