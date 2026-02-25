@@ -57,7 +57,9 @@ Este texto fue agregado en la rama `main` para generar un conflicto de fusión c
 
 Línea A: Esta línea fue escrita en la rama feature-conflicto.
 
+## Conflicto (feature)
 
+Línea A: Esta línea fue escrita en la rama main.
 
 
 
