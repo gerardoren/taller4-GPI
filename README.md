@@ -44,6 +44,9 @@ Andrés Gerardo Rendon
 Universidad de los Andes  
 2026
 
+## Conflicto
+
+Esta línea fue escrita desde la rama FEATURE.
 
 
 
@@ -51,6 +54,3 @@ Universidad de los Andes
 
 
 
-Para ejecutar el proyecto completo:
-
-1. Clonar el repositorio:
